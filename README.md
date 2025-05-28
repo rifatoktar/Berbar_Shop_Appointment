@@ -2,9 +2,9 @@
 
 Barber Shop Appointment App Design with Flutter and Figma
 
-You can observe to predesign process in Figma
+![post_first](https://github.com/user-attachments/assets/e24ab06e-1fd5-43b5-9bbd-7025fe60e07c)
 
-![barber_shop](https://github.com/user-attachments/assets/454eb11b-c386-4604-a503-fe401962812b)
+![post_last](https://github.com/user-attachments/assets/456f427c-2123-437b-9c8f-6e6d0d7bb607)
 
 A new Flutter project.
 
