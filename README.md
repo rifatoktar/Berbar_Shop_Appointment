@@ -1,6 +1,6 @@
 # barber_shop
 
-Course App Design with Flutter and Figma
+Barber Shop Appointment App Design with Flutter and Figma
 
 You can observe to predesign process in Figma
 
